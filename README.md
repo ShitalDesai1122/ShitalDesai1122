@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShitalDesai1122
+- 👋 Hi, I’m Shital Desai
 - 👀 I’m interested in coding, creating new things.
 - 🌱 I’m currently learning coding.
 - 💞️ I’m looking to collaborate on ...
